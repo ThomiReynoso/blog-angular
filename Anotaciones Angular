@@ -1,0 +1,11 @@
+ANOTACIONES ANGULAR
+
+Librerias extas: en "package.json" -- docu oficial de packages: https://www.npmjs.com/package
+
+	angular-froala-wysiwyg -- es como un word para la app, un edito de texto
+
+		con comando "npm update" me actualiza las dependendencias que tengo e instala las nuevas 
+
+		En fichero angular.json me permite añadir styles css y scripts del proyecto
+
+ENTONCES... primero instalo en package.json las librerias que quiero, desp ejecuto npm update y desp añado en angular.json los css y js correspondiente(mirar docu ofi)
